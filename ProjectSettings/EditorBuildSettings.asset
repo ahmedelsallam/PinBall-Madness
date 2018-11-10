@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Pinball Project 2.unity
+    guid: f7ff3ae3742061d4aa902d850e91e1f2
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: e759ff947e5e8564181b2dfd0f5d2e08

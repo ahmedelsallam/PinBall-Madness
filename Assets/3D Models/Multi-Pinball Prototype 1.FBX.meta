@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 8a5239a4b1a425b4597eb91f5954163a
+timeCreated: 1506662701
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: Arc002
+    100004: Arc003
+    100006: Arc004
+    100008: Box001
+    100010: Bumper Original
+    100012: Bumper Original001
+    100014: Bumper Original002
+    100016: Bumper Original003
+    100018: Capsule001
+    100020: Capsule002
+    100022: Capsule003
+    100024: Capsule004
+    100026: Capsule005
+    100028: Capsule006
+    100030: Flipper Button 003
+    100032: Flipper Button 004
+    100034: Flipper Button 2
+    100036: Flipper Button Original
+    100038: //RootNode
+    100040: Object001
+    100042: Object002
+    100044: Object003
+    100046: Object004
+    100048: Object005
+    100050: Plane001
+    100052: Plane002
+    100054: Sphere001
+    400000: Arc001
+    400002: Arc002
+    400004: Arc003
+    400006: Arc004
+    400008: Box001
+    400010: Bumper Original
+    400012: Bumper Original001
+    400014: Bumper Original002
+    400016: Bumper Original003
+    400018: Capsule001
+    400020: Capsule002
+    400022: Capsule003
+    400024: Capsule004
+    400026: Capsule005
+    400028: Capsule006
+    400030: Flipper Button 003
+    400032: Flipper Button 004
+    400034: Flipper Button 2
+    400036: Flipper Button Original
+    400038: //RootNode
+    400040: Object001
+    400042: Object002
+    400044: Object003
+    400046: Object004
+    400048: Object005
+    400050: Plane001
+    400052: Plane002
+    400054: Sphere001
+    2300000: Arc001
+    2300002: Arc002
+    2300004: Arc003
+    2300006: Arc004
+    2300008: Box001
+    2300010: Bumper Original
+    2300012: Bumper Original001
+    2300014: Bumper Original002
+    2300016: Bumper Original003
+    2300018: Capsule001
+    2300020: Capsule002
+    2300022: Capsule003
+    2300024: Capsule004
+    2300026: Capsule005
+    2300028: Capsule006
+    2300030: Flipper Button 003
+    2300032: Flipper Button 004
+    2300034: Flipper Button 2
+    2300036: Flipper Button Original
+    2300038: Object001
+    2300040: Object002
+    2300042: Object003
+    2300044: Object004
+    2300046: Object005
+    2300048: Plane001
+    2300050: Plane002
+    2300052: Sphere001
+    3300000: Arc001
+    3300002: Arc002
+    3300004: Arc003
+    3300006: Arc004
+    3300008: Box001
+    3300010: Bumper Original
+    3300012: Bumper Original001
+    3300014: Bumper Original002
+    3300016: Bumper Original003
+    3300018: Capsule001
+    3300020: Capsule002
+    3300022: Capsule003
+    3300024: Capsule004
+    3300026: Capsule005
+    3300028: Capsule006
+    3300030: Flipper Button 003
+    3300032: Flipper Button 004
+    3300034: Flipper Button 2
+    3300036: Flipper Button Original
+    3300038: Object001
+    3300040: Object002
+    3300042: Object003
+    3300044: Object004
+    3300046: Object005
+    3300048: Plane001
+    3300050: Plane002
+    3300052: Sphere001
+    4300000: Capsule001
+    4300002: Capsule002
+    4300004: Capsule003
+    4300006: Capsule004
+    4300008: Flipper Button Original
+    4300010: Flipper Button 2
+    4300012: Flipper Button 003
+    4300014: Flipper Button 004
+    4300016: Arc001
+    4300018: Arc002
+    4300020: Arc003
+    4300022: Arc004
+    4300024: Capsule005
+    4300026: Capsule006
+    4300028: Bumper Original
+    4300030: Bumper Original001
+    4300032: Bumper Original002
+    4300034: Bumper Original003
+    4300036: Box001
+    4300038: Object001
+    4300040: Object002
+    4300042: Object003
+    4300044: Object004
+    4300046: Object005
+    4300048: Sphere001
+    4300050: Plane001
+    4300052: Plane002
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
